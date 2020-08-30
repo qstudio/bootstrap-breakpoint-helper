@@ -2,9 +2,15 @@
 
 Simple helper script which shows current Bootstrap breakpoint, viewport dimensions and - if clicked, wraps all elements in borders for simpler UI debugging.
 
-## working example on codepen ##
+![Example Grab](https://qstudio.us/wp-content/uploads/2020/08/BS_Helper_2.jpg)
+
+## Working example on codepen ##
 
 https://codepen.io/qstudio/pen/bGpWYYg?editors=1111
+
+---
+
+## Full HTML ##
 
 ```html
 <html> 

@@ -1,4 +1,6 @@
-# bootstrap-breakpoint-helper
+# Bootstrap Breakpoint Helper #
+
+Simple helper script which shows current Bootstrap breakpoint, viewport dimensions and - if clicked, wraps all elements in borders for simpler UI debugging.
 
 ## working example on codepen ##
 

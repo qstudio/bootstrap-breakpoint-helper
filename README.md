@@ -4,7 +4,7 @@
 
 https://codepen.io/qstudio/pen/bGpWYYg?editors=1111
 
-```
+```html
 <html> 
 <head> 
     <script type='text/javascript' src='https://code.jquery.com/jquery-1.12.4.min.js'></script>
